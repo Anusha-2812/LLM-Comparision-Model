@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+data/metrics/*.csv
+data/camparison_reports/*.csv
+.venv/

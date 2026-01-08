@@ -1,0 +1,7 @@
+Model,Prompt,Response,Timestamp
+chatgpt,"heyyyyy
+","Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",2026-01-08 10:18:46
+gemini,"heyyyyy
+",Hey there! What's up? 👋,2026-01-08 10:18:46
+llama,"heyyyyy
+",Hello! How's it going? Is there something I can help you with or would you like to chat?,2026-01-08 10:18:46
